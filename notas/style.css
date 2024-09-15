@@ -1,0 +1,51 @@
+
+body{
+    padding: 1%;
+}
+
+.contenedor{
+    display: flex;
+    gap: 1%;
+}
+.formulario{
+    padding: 1%;
+    width: 30%;
+    background-color: rgb(74, 131, 255);
+}
+.datos{
+    padding: 1%;
+    width: 70%;
+    background-color: rgb(74, 131, 255);
+}
+
+.frm_update{
+    padding: 1%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(74, 131, 255);
+}
+
+
+
+.input-text{
+    width: 60%;
+    height: 25px;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+.btn{
+    margin: 5px;
+    width: 40%;
+    height: 40px;
+    background-color: rgb(75, 236, 129);
+    border-radius: 5px;
+}
+
+/*  tabla */
+#ico-editar{
+    color:rgb(38, 156, 2);
+}
+#ico-borrar{
+    color:red;
+}
